@@ -1,0 +1,52 @@
+.wp-calc-weight-table {margin-top: 10px;}
+
+.wp-calc-weight-table .even {background-color:#f1f1f1;}
+
+.wp-calc-weight-form input.wide {
+	width: 100%;
+}
+
+.wp-calc-weight-form select {
+	vertical-align: top;
+}
+
+.wp-calc-weight-faq-table tr td:first-child {
+	font-style: italic;
+}
+
+/* placehorder */
+::-webkit-input-placeholder {color:#8fb9c1;font-style: italic;}
+::-moz-placeholder          {color:#8fb9c1;font-style: italic;}/* Firefox 19+ */
+:-moz-placeholder           {color:#8fb9c1;font-style: italic;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#8fb9c1;font-style: italic;}
+:focus::-webkit-input-placeholder {color: transparent}
+:focus::-moz-placeholder          {color: transparent}
+:focus:-moz-placeholder           {color: transparent}
+:focus:-ms-input-placeholder      {color: transparent}
+
+
+@media (max-width: 800px) {
+	.wp-calc-weight-table .not_mobile {display:none;}
+}
+@media (min-width: 801px) {
+	.wp-calc-weight-table .mobile {display:none;}
+}
+
+.wp-calc-weight-form input:required:invalid {
+    border-color: red;
+}
+
+.wp-calc-weight-whats-new {
+	background-color: #FFF;
+	padding: 10px;
+}
+
+.wp-calc-weight-whats-new ol, 
+.wp-calc-weight-whats-new ul {
+    padding-left: 30px;
+    list-style: initial;
+}
+
+.wp-calc-weight-faq h3 {
+	font-style: italic;	
+} 

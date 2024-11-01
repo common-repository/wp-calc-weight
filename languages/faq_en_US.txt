@@ -1,0 +1,146 @@
+<h2>How to install</h2>
+
+<ol>
+	<li>Click the bookmark "Plug-ins", then <strong>"download plug-in"</strong></li>
+	<li>Select the "wp-calc-weight.zip", and click <strong>Install</strong></li>
+	<li>After the installation is complete, click <strong>Activate Plugin</strong></li>
+</ol>
+
+<h2>How does this work</h2>
+
+<ol>
+	<li>Move to the section "Settings" and create the calculator that you need.</li>
+	<li>2 Select short-code from "Settings" section and insert it on the page on which you want to display the calculator. For more information, see section "Short-Codes" below.</li>
+</ol>
+
+
+<h2>Short-codes</h2>
+
+<p>
+Examples of short-codes:
+<br/>
+
+[calc-weight]
+
+<br/>
+or 
+<br/>
+
+[calc-weight age=27]<br/>
+
+or 
+<br/>
+
+[calc-weight gender=female]<br/>
+
+or 
+<br/>
+
+[calc-weight age=27 gender=male]<br/>
+</p>
+
+<h2>Settings</h2>
+<p>
+<table class="widefat wp-calc-weight-faq-table">
+<tbody>
+<tr>
+<td width="30%">Public language</td>
+<td><span lang="en">Select the language on which one you want to display the calculator</span></td>
+</tr>
+
+<tr>
+<td>Measurement system</td>
+<td>Metric or English</td>
+</tr>
+
+<tr>
+<td>Round up calculations</td>
+<td>Round up or not to an integer</td>
+</tr>
+
+<tr>
+<td>Custom header</td>
+<td>Change the standard header</td>
+</tr>
+
+<tr>
+<td>Show header</td>
+<td>Displaying calculator header</td>
+</tr>
+
+<tr>
+<td>Show Reset button</td>
+<td>Displaying calculator's Reset button </td>
+</tr>
+
+
+<tr>
+<td>Custom basic font size</td>
+<td>Set the font size for the calculator</td>
+</tr>
+
+<tr>
+<td>Custom border color</td>
+<td>Change border color</td>
+</tr>
+
+<tr>
+<td>Custom name for the Calculate button</td>
+<td>Enter the name for the Calculate button (if not satisfied with the default button name)</td>
+</tr>
+<tr>
+<td>Custom background color for the Calculate button</td>
+<td>Change Custom background color for the Calculate button</td>
+</tr>
+<tr>
+<td>Custom font color for the Calculate button (default and hyperlinked)</td>
+<td>Change Custom font color for the Calculate button (default and hyperlinked)</td>
+</tr>
+
+<tr>
+<td>Custom background color for the Reset button</td>
+<td>Change background color for the Reset button</td>
+</tr>
+<tr>
+<td>Custom font color for the Reset button (default and hyperlinked)</td>
+<td>Change font color for the Reset button (default and hyperlinked)</td>
+</tr>
+
+<tr>
+<td>Custom background color for the table header</td>
+<td>Set the background color for the table header</td>
+</tr>
+<tr>
+<td>Custom font color for the table header</td>
+<td>Set font color for the table header</td>
+</tr>
+
+<tr>
+<td>Custom border color for input</td>
+<td>Set the color for the input border</td>
+</tr>
+
+<tr>
+<td>Custom background color for input</td>
+<td>Set the background color for the inputs</td>
+</tr>
+
+<tr>
+<td>Custom font color for input</td>
+<td>Set input font color</td>
+</tr>
+
+<tr>
+<td>Advertising javascript (e.g. Google adsense)</td>
+<td>Add your advertising code extra</td>
+</tr>
+
+</tbody>
+</table>
+
+</p>
+
+
+<h2>Additional</h2>
+
+Look here for the details: <a href="https://www.jarvis365.com/wp-calc-weight/">https://www.jarvis365.com/wp-calc-weight/</a>.

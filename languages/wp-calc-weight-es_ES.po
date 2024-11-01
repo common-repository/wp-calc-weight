@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-17 01:07+0300\n"
+"PO-Revision-Date: 2019-07-20 20:34+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-10: public/templates/public/idealweight.php\n"
+"Last-Translator: alexgul <gulayev@gmail.com>\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: admin/admin.php\n"
+"X-Poedit-SearchPath-1: admin/faq.php\n"
+"X-Poedit-SearchPath-2: admin/settings.php\n"
+"X-Poedit-SearchPath-3: admin/whats_new.php\n"
+"X-Poedit-SearchPath-4: wp-calc-weight.php\n"
+"X-Poedit-SearchPath-5: public/public.php\n"
+"X-Poedit-SearchPath-6: public/templates/public/idealweight.php\n"
+
+#: admin/admin.php:17
+msgid "Wp-Calc-Weight"
+msgstr ""
+
+#: admin/admin.php:19 admin/settings.php:12
+msgid "Settings"
+msgstr "Los ajustes"
+
+#: admin/admin.php:21 admin/faq.php:3
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/admin.php:22 admin/whats_new.php:3
+msgid "What's new"
+msgstr "Que nuevo"
+
+#: admin/settings.php:21
+msgid "Shortcodes samples"
+msgstr "Los ejemplos de los shorts-códigos"
+
+#: admin/settings.php:31
+msgid "Public language"
+msgstr "La lengua de la parte pública"
+
+#: admin/settings.php:42
+msgid "Measurement system"
+msgstr "El sistema de las medidas"
+
+#: admin/settings.php:45
+msgid "Metric"
+msgstr "Métrico"
+
+#: admin/settings.php:46
+msgid "Imperial"
+msgstr "Inglés"
+
+#: admin/settings.php:52
+msgid "Round up calculations"
+msgstr "Redondear los cálculos finales"
+
+#: admin/settings.php:55 admin/settings.php:72 admin/settings.php:81
+msgid "No"
+msgstr "No"
+
+#: admin/settings.php:56 admin/settings.php:71 admin/settings.php:80
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/settings.php:62
+msgid "Custom header"
+msgstr "El encabezamiento de usuario"
+
+#: admin/settings.php:69
+msgid "Show header"
+msgstr "Mostrar el encabezamiento"
+
+#: admin/settings.php:78
+msgid "Show 'Reset' button"
+msgstr "Mostrar el botón el Lanzamiento"
+
+#: admin/settings.php:91
+msgid "Custom basic font size"
+msgstr "La dimensión de usuario básica de la letra"
+
+#: admin/settings.php:96
+msgid "Custom border color"
+msgstr "El color de usuario del límite"
+
+#: admin/settings.php:101
+msgid "Custom name for 'Calculate' button"
+msgstr "El nombre de usuario del botón Contar"
+
+#: admin/settings.php:106
+msgid "Custom background color for 'Calculate' button"
+msgstr "El color de usuario del fondo del botón Contar"
+
+#: admin/settings.php:110
+msgid "Custom font color for 'Calculate' button (normal and hover)"
+msgstr "El color de usuario de la letra del botón Contar (regular y a la inducción)"
+
+#: admin/settings.php:118
+msgid "Custom background color for 'Reset' button"
+msgstr "El color de usuario del fondo del botón el Lanzamiento"
+
+#: admin/settings.php:122
+msgid "Custom font color for 'Reset' button (normal and hover)"
+msgstr "El color de usuario de la letra del botón el Lanzamiento (regular y a la inducción)"
+
+#: admin/settings.php:131
+msgid "Custom background color for table header"
+msgstr "El color de usuario del fondo del encabezamiento de la tabla"
+
+#: admin/settings.php:135
+msgid "Custom font color for table header"
+msgstr "El color de usuario de la letra de la tabla"
+
+#: admin/settings.php:141
+msgid "Custom border color for input"
+msgstr "El color de usuario del límite de los campos"
+
+#: admin/settings.php:145
+msgid "Custom background color for input"
+msgstr "El color de usuario del fondo de los campos"
+
+#: admin/settings.php:149
+msgid "Custom font color for input"
+msgstr "El color de usuario de la letra de los campos"
+
+#: admin/settings.php:156
+msgid "Advertising javascript (e.g. Google adsense)"
+msgstr "La publicidad javascript (p.ej. Google adsense)"
+
+#: admin/settings.php:163
+msgid "PHP version"
+msgstr "Versión de PHP"
+
+#: admin/settings.php:172
+msgid "Save"
+msgstr "Conservar"
+
+#: public/public.php:23 public/templates/public/idealweight.php:7
+msgid "Ideal weight"
+msgstr "El peso ideal"
+
+#: public/public.php:32
+msgid "Calculate"
+msgstr "Contar"
+
+#: public/templates/public/idealweight.php:6
+msgid "Formula"
+msgstr "La fórmula"
+
+#: public/templates/public/idealweight.php:8
+msgid "kg."
+msgstr "Kg"
+
+#: public/templates/public/idealweight.php:8
+msgid "lbs."
+msgstr "La libra."
+
+#: public/templates/public/idealweight.php:10
+msgid "Robinson's formula"
+msgstr "La fórmula de Robinson"
+
+#: public/templates/public/idealweight.php:11
+msgid "Miller's formula"
+msgstr "La fórmula de Miller"
+
+#: public/templates/public/idealweight.php:12
+msgid "Devine's formula"
+msgstr "La fórmula de Devine"
+
+#: public/templates/public/idealweight.php:13
+msgid "Hamwi formula"
+msgstr "La fórmula de Hamvi"
+
+#: public/templates/public/idealweight.php:14
+msgid "Creff's formula"
+msgstr "La fórmula de Creff"
+
+#: public/templates/public/idealweight.php:15
+msgid "Nagler's formula"
+msgstr "La formula de Nagler"
+
+#: public/templates/public/idealweight.php:16
+msgid "Cooper's formula"
+msgstr "La fórmula de Cooper"
+
+#: public/templates/public/idealweight.php:17
+msgid "Monnerot-Dumaine's formula"
+msgstr "La fórmula de Monnerot-Dumaine"
+
+#: public/templates/public/idealweight.php:18
+msgid "World Health Organization recommendation(BMI: 18.5 - 25)"
+msgstr "Recomendación de la Organización Mundial de la Salud (BMI: 18.5 - 25)"
+
+#: public/templates/public/idealweight.php:31
+msgid "Age"
+msgstr "La edad"
+
+#: public/templates/public/idealweight.php:32
+msgid "years"
+msgstr "De los años"
+
+#: public/templates/public/idealweight.php:35
+msgid "Gender"
+msgstr "El suelo"
+
+#: public/templates/public/idealweight.php:38
+msgid "Male"
+msgstr "De hombre"
+
+#: public/templates/public/idealweight.php:39
+msgid "Female"
+msgstr "Femenino"
+
+#: public/templates/public/idealweight.php:44
+msgid "Height"
+msgstr "El crecimiento"
+
+#: public/templates/public/idealweight.php:45
+#: public/templates/public/idealweight.php:58
+msgid "cm"
+msgstr "Cm."
+
+#: public/templates/public/idealweight.php:45
+msgid "ft"
+msgstr "El pie"
+
+#: public/templates/public/idealweight.php:48
+#: public/templates/public/idealweight.php:58
+msgid "inch"
+msgstr "La pulgada"
+
+#: public/templates/public/idealweight.php:57
+msgid "Girth of wrist"
+msgstr "Contorno la muñeca"
+
+#: public/templates/public/idealweight.php:65
+msgid "Reset"
+msgstr "Restablecer"
